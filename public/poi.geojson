@@ -4,6 +4,8 @@
 "features": [
 { "type": "Feature", "id": 1, "properties": { "Nom": "BMW Welt", "Lieu": "Am Olympiapark 1, 80809 Munchen", "Metro": "Olympiazentrum", "Date": "19/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.556351, 48.177247 ] } }
 ,
-{ "type": "Feature", "id": 92, "properties": { "Nom": "Margam Castle", "Lieu": "Port Talbot SA13 2TJ", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.724934, 51.562815 ] } }
+{ "type": "Feature", "id": 2, "properties": { "Nom": "Musee allemand", "Lieu": "Museumsinsel 1, 80538 Munchen", "Metro": "Deutches Museum", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.582851, 48.129621 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "Nom": "Zoo d'Hellabrunn", "Lieu": "Tiersparkstrasse 30, 81543 Munchen", "Metro": "Bus 52", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.551968, 48.100371 ] } }
 ]
 }
