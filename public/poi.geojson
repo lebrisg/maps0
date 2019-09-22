@@ -6,6 +6,12 @@
 ,
 { "type": "Feature", "id": 2, "properties": { "Nom": "Musee allemand", "Lieu": "Museumsinsel 1, 80538 Munchen", "Metro": "Deutches Museum", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.582851, 48.129621 ] } }
 ,
-{ "type": "Feature", "id": 3, "properties": { "Nom": "Zoo d'Hellabrunn", "Lieu": "Tiersparkstrasse 30, 81543 Munchen", "Metro": "Bus 52", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.551968, 48.100371 ] } }
+{ "type": "Feature", "id": 3, "properties": { "Nom": "Zoo d'Hellabrunn", "Lieu": "Tiersparkstrasse 30, 81543 Munchen", "Metro": "Tierpark", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.551968, 48.100371 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "Nom": "Bavaria Filmstadt", "Lieu": "Bavariafilmpl. 7, 82031 Grunwald", "Metro": "Grunwald/Bavariafilmplatz", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.554002, 48.06534 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "Nom": "Marienplatz", "Lieu": "Marienplatz, 80331 Munchen", "Metro": "Marienplatz", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.576178, 48.138356 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "Nom": "Viktualienmarkt", "Lieu": "Viktualienmarkt 3, 80331 Munchen", "Metro": "Marienplatz", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.576414, 48.135349 ] } }
 ]
 }
