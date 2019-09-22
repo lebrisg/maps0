@@ -29,5 +29,9 @@
 { "type": "Feature", "id": 13, "properties": { "Nom": "NS-Dokumentationszentrum", "Lieu": "Max-Mannheimer-Platz 1, 80333 Munchen", "Metro": "Konigsplatz", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.567708, 48.145369 ] } }
 ,
 { "type": "Feature", "id": 14, "properties": { "Nom": "Residenz", "Lieu": "Residenzstrasse 1, 80333 Munchen", "Metro": "Marienplatz/Odeonplatz", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.578614, 48.14069 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "Nom": "Chateau de Neuschwanstein", "Lieu": "Neuschwansteinstrasse 20, 87645 Schwangau", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.7476117, 47.5575776 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "Nom": "ESO Supernova Planetarium", "Lieu": "Karl-Schwarzschild-strasse 2, 85748 Garching bei Munchen", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.670291, 48.259456 ] } }
 ]
 }
