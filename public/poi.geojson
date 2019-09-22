@@ -16,8 +16,12 @@
 ,
 { "type": "Feature", "id": 7, "properties": { "Nom": "Englischer Garten", "Lieu": "Munchen", "Metro": "Universitat", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.589031, 48.149195 ] } }
 ,
-{ "type": "Feature", "id": 8, "properties": { "Nom": "Olypiaturm", "Lieu": "Olympiapark, Spiridon-Louis-Ring 7, 80809, Munchen", "Metro": "Olympiazentrum", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.553733, 48.174421 ] } }
+{ "type": "Feature", "id": 8, "properties": { "Nom": "Olypiaturm", "Lieu": "Olympiapark, Spiridon-Louis-Ring 7, 80809 Munchen", "Metro": "Olympiazentrum", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.553733, 48.174421 ] } }
 ,
-{ "type": "Feature", "id": 9, "properties": { "Nom": "Deutches Museum Verkehrzentrum", "Lieu": "Am Bavariapark 5, 80339, Munchen", "Metro": "Swanthalerhohe", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.541894, 48.132614 ] } }
+{ "type": "Feature", "id": 9, "properties": { "Nom": "Deutches Museum Verkehrzentrum", "Lieu": "Am Bavariapark 5, 80339 Munchen", "Metro": "Swanthalerhohe", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.541894, 48.132614 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "Nom": "BMW Museum", "Lieu": "Am Olympiapark 2, 80809 Munchen", "Metro": "Olympiapark", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.559066, 48.176911 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "Nom": "Allianz-Arena", "Lieu": "Werner-Heisenberg-Allee 25, 80939 Munchen", "Metro": "Frottmaning", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.62464, 48.219011 ] } }
 ]
 }
