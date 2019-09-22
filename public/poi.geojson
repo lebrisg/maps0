@@ -13,5 +13,11 @@
 { "type": "Feature", "id": 5, "properties": { "Nom": "Marienplatz", "Lieu": "Marienplatz, 80331 Munchen", "Metro": "Marienplatz", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.576178, 48.138356 ] } }
 ,
 { "type": "Feature", "id": 6, "properties": { "Nom": "Viktualienmarkt", "Lieu": "Viktualienmarkt 3, 80331 Munchen", "Metro": "Marienplatz", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.576414, 48.135349 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "Nom": "Englischer Garten", "Lieu": "Munchen", "Metro": "Universitat", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.589031, 48.149195 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "Nom": "Olypiaturm", "Lieu": "Olympiapark, Spiridon-Louis-Ring 7, 80809, Munchen", "Metro": "Olympiazentrum", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.553733, 48.174421 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "Nom": "Deutches Museum Verkehrzentrum", "Lieu": "Am Bavariapark 5, 80339, Munchen", "Metro": "Swanthalerhohe", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.541894, 48.132614 ] } }
 ]
 }
