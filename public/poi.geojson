@@ -30,7 +30,11 @@
 ,
 { "type": "Feature", "id": 14, "properties": { "Nom": "Residenz", "Lieu": "Residenzstrasse 1, 80333 Munchen", "Metro": "Marienplatz/Odeonplatz", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.578614, 48.14069 ] } }
 ,
-{ "type": "Feature", "id": 15, "properties": { "Nom": "Karlstor", "Lieu": "Neuhauser Str.47, 80331 Munchen", "Metro": "Karlsplatz", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.5634, 48.1373 ] } }
+{ "type": "Feature", "id": 15, "properties": { "Nom": "Karlstor", "Lieu": "Neuhauser Str.47, 80331 Munchen", "Metro": "Karlsplatz", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.566721, 48.138958 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "Nom": "Isartor", "Lieu": "Tal 50, 80331 Munchen", "Metro": "Isartor", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.581982, 48.135138 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "Nom": "Sendlinger Tor", "Lieu": "Sendlinger-Tor-Platz 12, 80331 Munchen", "Metro": "Sendlinger Tor", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.567595, 48.134078 ] } }
 ,
 { "type": "Feature", "id": 30, "properties": { "Nom": "Chateau de Neuschwanstein", "Lieu": "Neuschwansteinstrasse 20, 87645 Schwangau", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.749532, 47.55753 ] } }
 ,
