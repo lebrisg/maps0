@@ -30,8 +30,8 @@
 ,
 { "type": "Feature", "id": 14, "properties": { "Nom": "Residenz", "Lieu": "Residenzstrasse 1, 80333 Munchen", "Metro": "Marienplatz/Odeonplatz", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.578614, 48.14069 ] } }
 ,
-{ "type": "Feature", "id": 30, "properties": { "Nom": "Chateau de Neuschwanstein", "Lieu": "Neuschwansteinstrasse 20, 87645 Schwangau", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.7476117, 47.5575776 ] } }
+{ "type": "Feature", "id": 30, "properties": { "Nom": "Chateau de Neuschwanstein", "Lieu": "Neuschwansteinstrasse 20, 87645 Schwangau", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.749532, 47.55753 ] } }
 ,
-{ "type": "Feature", "id": 15, "properties": { "Nom": "ESO Supernova Planetarium", "Lieu": "Karl-Schwarzschild-strasse 2, 85748 Garching bei Munchen", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.670291, 48.259456 ] } }
+{ "type": "Feature", "id": 31, "properties": { "Nom": "Chateau de Linderhof", "Lieu": "Linderhof 12, 82488 Ettal", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.94737, 47.5682 ] } }
 ]
 }
