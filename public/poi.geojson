@@ -47,5 +47,7 @@
 { "type": "Feature", "id": 51, "properties": { "Nom": "Tripsdrill Erlebnispark", "Lieu": "Erlebnispark Tripsdrill Strasse 1, 74389 Cleebronn", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 9.052874, 49.035406 ] } }
 ,
 { "type": "Feature", "id": 52, "properties": { "Nom": "Allgau Skyline Park", "Lieu": "86871, Skyline-Park-Str.1", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.590804, 48.042803 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "Nom": "Bayern Park", "Lieu": "Fellbach 1, 94419 Reisbach", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 12.636101, 48.53083 ] } }
 ]
 }
