@@ -49,5 +49,7 @@
 { "type": "Feature", "id": 52, "properties": { "Nom": "Allgau Skyline Park", "Lieu": "86871, Skyline-Park-Str.1", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.590804, 48.042803 ] } }
 ,
 { "type": "Feature", "id": 53, "properties": { "Nom": "Bayern Park", "Lieu": "Fellbach 1, 94419 Reisbach", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 12.636101, 48.53083 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "Nom": "Badeparadies", "Lieu": "Am Badeparadies, 79822 Titisee-Neustadt", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 8.159556, 47.906807 ] } }
 ]
 }
