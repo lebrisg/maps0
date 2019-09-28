@@ -42,6 +42,8 @@
 ,
 { "type": "Feature", "id": 31, "properties": { "Nom": "Chateau de Linderhof", "Lieu": "Linderhof 12, 82488 Ettal", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.960772, 47.57172 ] } }
 ,
+{ "type": "Feature", "id": 32, "properties": { "Nom": "Musee des Transports", "Lieu": "Lessingstraße 6, 90443 Nurnberg", "Metro": "Opernhaus", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.074325, 49.445623 ] } }
+,
 { "type": "Feature", "id": 40, "properties": { "Nom": "Legoland", "Lieu": "Legoland-Allee 1, 89312 Gunzburg", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.299484, 48.424445 ] } }
 ,
 { "type": "Feature", "id": 50, "properties": { "Nom": "Europapark", "Lieu": "Europa-Park-Strasse 2, 77977 Rust", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 7.721715, 48.26889 ] } }
