@@ -44,87 +44,13 @@
 		maxZoom: 18,
 		attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
 	    }).addTo(map);
-          $.getJSON("bus.geojson",function(data){
+          $.getJSON("munich.geojson",function(data){
             L.geoJson(data).addTo(map);
           }); 
 	  L.easyButton('<strong>B</strong>', function(btn, map){
             var bristol = [51.454, -2.598];
             map.setView(bristol, 14);
           }).addTo(map);
-
-	  L.easyButton('<strong>A</strong>', function(btn, map){
-            var bath = [51.3815, -2.36];
-            map.setView(bath, 14);
-          }).addTo(map);
-
-	  L.easyButton('<strong>C</strong>', function(btn, map){
-            var cardiff = [51.481, -3.176];
-            map.setView(cardiff, 13);
-          }).addTo(map);
-
-	  // load GeoJSON from an external file
-	  $.getJSON("boats.geojson",function(data){
-            var boatIcon = L.icon({
-              iconUrl: 'boat.png',
-              iconSize: [20,20]
-            });
-	    // add GeoJSON layer to the map once the file is loaded
-	    L.geoJson(data,{
-	      pointToLayer: function(feature,latlng){
-	        var marker = L.marker(latlng,{icon: boatIcon});
-	        marker.bindPopup(feature.properties.Nom + '<br/>' + feature.properties.Lieu + '<br/>' + feature.properties.Date);
-	        return marker;
-	      }
-	   }).addTo(map);
-          });
-
-	  // load GeoJSON from an external file
-	  $.getJSON("telepheriques.geojson",function(data){
-            var teleIcon = L.icon({
-              iconUrl: 'telepherique.png',
-              iconSize: [15,15]
-            });
-	    // add GeoJSON layer to the map once the file is loaded
-	    L.geoJson(data,{
-	      pointToLayer: function(feature,latlng){
-	        var marker = L.marker(latlng,{icon: teleIcon});
-	        marker.bindPopup(feature.properties.Nom + '<br/>' + feature.properties.Lieu + '<br/>' + feature.properties.Date);
-	        return marker;
-	      }
-	   }).addTo(map);
-          });
-
-	  // load GeoJSON from an external file
-	  $.getJSON("bikes.geojson",function(data){
-            var bikeIcon = L.icon({
-              iconUrl: 'bike.png',
-              iconSize: [24,18]
-            });
-	    // add GeoJSON layer to the map once the file is loaded
-	    L.geoJson(data,{
-	      pointToLayer: function(feature,latlng){
-	        var marker = L.marker(latlng,{icon: bikeIcon});
-	        marker.bindPopup(feature.properties.Nom + '<br/>' + feature.properties.Lieu + '<br/>' + feature.properties.Date);
-	        return marker;
-	      }
-	   }).addTo(map);
-          });
-
-	  // load GeoJSON from an external file
-	  $.getJSON("shops.geojson",function(data){
-            var shopIcon = L.icon({
-              iconUrl: 'shop.png',
-              iconSize: [14,16]
-            });
-	    // add GeoJSON layer to the map once the file is loaded
-	    L.geoJson(data,{
-	      pointToLayer: function(feature,latlng){
-	        var marker = L.marker(latlng,{icon: shopIcon});
-	        marker.bindPopup(feature.properties.Nom + '<br/>' + feature.properties.Lieu + '<br/>' + feature.properties.Date);
-	        return marker;
-	      }
-	   }).addTo(map);
-          });
 
 	  // load GeoJSON from an external file
 	  $.getJSON("poi.geojson",function(data){
