@@ -47,9 +47,9 @@
           $.getJSON("munich.geojson",function(data){
             L.geoJson(data).addTo(map);
           }); 
-	  L.easyButton('<strong>B</strong>', function(btn, map){
-            var bristol = [51.454, -2.598];
-            map.setView(bristol, 14);
+	  L.easyButton('<strong>M</strong>', function(btn, map){
+            var munich = [48.137, 11.573];
+            map.setView(munich, 14);
           }).addTo(map);
 
 	  // load GeoJSON from an external file
