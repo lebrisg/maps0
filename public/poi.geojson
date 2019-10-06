@@ -42,22 +42,26 @@
 ,
 { "type": "Feature", "id": 31, "properties": { "Nom": "Chateau de Linderhof", "Lieu": "Linderhof 12, 82488 Ettal", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.960772, 47.57172 ] } }
 ,
-{ "type": "Feature", "id": 32, "properties": { "Nom": "Musee des Transports", "Lieu": "Lessingstraße 6, 90443 Nurnberg", "Metro": "Opernhaus", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.074325, 49.445623 ] } }
+{ "type": "Feature", "id": 32, "properties": { "Nom": "Musee des Transports", "Lieu": "Lessingstraße 6, 90443 Nurnberg", "Metro": "Opernhaus", "Date": "21/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.074325, 49.445623 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "Nom": "Hotel Am Jakobsmarkt", "Lieu": "Schottengasse 5, 90402 Nurnberg", "Metro": "Opernhaus", "Date": "20/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.070197, 49.448288 ] } }
 ,
 { "type": "Feature", "id": 40, "properties": { "Nom": "Legoland", "Lieu": "Legoland-Allee 1, 89312 Gunzburg", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.299484, 48.424445 ] } }
 ,
 { "type": "Feature", "id": 50, "properties": { "Nom": "Europapark", "Lieu": "Europa-Park-Strasse 2, 77977 Rust", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 7.721715, 48.26889 ] } }
 ,
-{ "type": "Feature", "id": 51, "properties": { "Nom": "Tripsdrill Erlebnispark", "Lieu": "Erlebnispark Tripsdrill Strasse 1, 74389 Cleebronn", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 9.052874, 49.035406 ] } }
+{ "type": "Feature", "id": 51, "properties": { "Nom": "Tripsdrill Erlebnispark", "Lieu": "Erlebnispark Tripsdrill Strasse 1, 74389 Cleebronn", "Metro": "", "Date": "20/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 9.052874, 49.035406 ] } }
 ,
 { "type": "Feature", "id": 52, "properties": { "Nom": "Allgau Skyline Park", "Lieu": "86871, Skyline-Park-Str.1", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.590804, 48.042803 ] } }
 ,
-{ "type": "Feature", "id": 53, "properties": { "Nom": "Bayern Park", "Lieu": "Fellbach 1, 94419 Reisbach", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 12.636101, 48.53083 ] } }
+{ "type": "Feature", "id": 53, "properties": { "Nom": "Hotel am Castell", "Lieu": "Kastellstrasse 64, 74080 Heilbronn", "Metro": "", "Date": "19/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 9.19935, 49.145403 ] } }
 ,
 { "type": "Feature", "id": 54, "properties": { "Nom": "Badeparadies", "Lieu": "Am Badeparadies, 79822 Titisee-Neustadt", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 8.159556, 47.906807 ] } }
 ,
 { "type": "Feature", "id": 55, "properties": { "Nom": "Center Parcs - Les 3 forets", "Lieu": "1 Rue de Bertrambois, 57790 Hattigny", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 6.984639, 48.621673 ] } }
 ,
-{ "type": "Feature", "id": 56, "properties": { "Nom": "Aqua Mundo Allgau", "Lieu": "88299 Leutkirch im Allgau", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.063496, 47.783733 ] } }
+{ "type": "Feature", "id": 56, "properties": { "Nom": "Bayern Park", "Lieu": "Fellbach 1, 94419 Reisbach", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 12.636101, 48.53083 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "Nom": "Aqua Mundo Allgau", "Lieu": "88299 Leutkirch im Allgau", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.063496, 47.783733 ] } }
 ]
 }
