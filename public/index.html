@@ -59,7 +59,7 @@
 
  	  // load travel data
           $.getJSON("travel.geojson",function(data){
-            L.geoJson(data).addTo(map);
+            L.geoJson(data, { "color": "#ff7800" }).addTo(map);
           }); 
 
 	  // load Vignette Munich
