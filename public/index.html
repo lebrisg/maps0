@@ -48,8 +48,12 @@
             L.geoJson(data).addTo(map);
           }); 
 	  L.easyButton('<strong>H</strong>', function(btn, map){
-            var heilbronn = [49.096, 9.172];
+            var heilbronn = [49.097, 9.15];
             map.setView(heilbronn, 12);
+          }).addTo(map);
+	  L.easyButton('<strong>N</strong>', function(btn, map){
+            var nuremberg = [49.45, 11.07];
+            map.setView(nuremberg, 12);
           }).addTo(map);
 	  L.easyButton('<strong>M</strong>', function(btn, map){
             var munich = [48.137, 11.573];
