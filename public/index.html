@@ -44,7 +44,6 @@
 		maxZoom: 18,
 		attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
 	    }).addTo(map);
-          }); 
 	  L.easyButton('<strong>H</strong>', function(btn, map){
             var heilbronn = [49.097, 9.15];
             map.setView(heilbronn, 12);
@@ -60,6 +59,7 @@
 
           $.getJSON("munich.geojson",function(data){
             L.geoJson(data).addTo(map);
+          }); 
 
 	  // load GeoJSON from an external file
 	  $.getJSON("poi.geojson",function(data){
