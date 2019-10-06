@@ -38,6 +38,8 @@
 ,
 { "type": "Feature", "id": 18, "properties": { "Nom": "Chateau de Nymphenburg", "Lieu": "Schloss Nymphenburg 1, 80638 Munchen", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.503386, 48.158356 ] } }
 ,
+{ "type": "Feature", "id": 19, "properties": { "Nom": "AirBnB", "Lieu": "Helene-Mayer-Ring 12, Munchen", "Metro": "", "Date": "21/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.55316, 48.181866 ] } }
+,
 { "type": "Feature", "id": 30, "properties": { "Nom": "Chateau de Neuschwanstein", "Lieu": "Neuschwansteinstrasse 20, 87645 Schwangau", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.749532, 47.55753 ] } }
 ,
 { "type": "Feature", "id": 31, "properties": { "Nom": "Chateau de Linderhof", "Lieu": "Linderhof 12, 82488 Ettal", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.960772, 47.57172 ] } }
