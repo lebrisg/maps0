@@ -47,6 +47,10 @@
           $.getJSON("munich.geojson",function(data){
             L.geoJson(data).addTo(map);
           }); 
+	  L.easyButton('<strong>H</strong>', function(btn, map){
+            var heilbronn = [49.095, 9.16];
+            map.setView(heilbronn, 14);
+          }).addTo(map);
 	  L.easyButton('<strong>M</strong>', function(btn, map){
             var munich = [48.137, 11.573];
             map.setView(munich, 14);
