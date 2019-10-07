@@ -48,6 +48,8 @@
 ,
 { "type": "Feature", "id": 33, "properties": { "Nom": "Hotel Am Jakobsmarkt", "Lieu": "Schottengasse 5, 90402 Nurnberg", "Metro": "Opernhaus", "Date": "20/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.070197, 49.448288 ] } }
 ,
+{ "type": "Feature", "id": 34, "properties": { "Nom": "Kaiserburg", "Lieu": "Burg 13, 90403 Nurnberg", "Metro": "", "Date": "20/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.075077, 49.458048 ] } }
+,
 { "type": "Feature", "id": 40, "properties": { "Nom": "Legoland", "Lieu": "Legoland-Allee 1, 89312 Gunzburg", "Metro": "", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.299484, 48.424445 ] } }
 ,
 { "type": "Feature", "id": 50, "properties": { "Nom": "Europapark", "Lieu": "Europa-Park-Strasse 2, 77977 Rust", "Metro": "", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 7.721715, 48.26889 ] } }
