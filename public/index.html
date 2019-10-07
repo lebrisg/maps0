@@ -62,6 +62,11 @@
             L.geoJson(data, { "color": "#ff7800" }).addTo(map);
           }); 
 
+ 	  // load tube data
+          $.getJSON("ubahn.geojson",function(data){
+            L.geoJson(data, { "color": "#007800" }).addTo(map);
+          }); 
+
 	  // load Vignette Munich
           $.getJSON("munich.geojson",function(data){
             L.geoJson(data).addTo(map);

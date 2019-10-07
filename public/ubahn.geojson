@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "Nom": "Ubahn"}, "geometry": { "type": "LineString", "coordinates": [ [ 11.556083, 48.179297 ], [ 11.565894, 48.175663 ], [ 11.572847, 48.171409 ], [ 11.568759,48.162368 ], [ 11.567096, 48.155733 ] ] } }
+]
+}
