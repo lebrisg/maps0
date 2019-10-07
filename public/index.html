@@ -59,17 +59,17 @@
 
  	  // load travel data
           $.getJSON("travel.geojson",function(data){
-            L.geoJson(data, { "color": "#ff7800" }).addTo(map);
+            L.geoJson(data, { "color": "#FF7800" }).addTo(map);
           }); 
 
  	  // load tube data line 3
           $.getJSON("ubahn3.geojson",function(data){
-            L.geoJson(data, { "color": "#00FFFF" }).addTo(map);
+            L.geoJson(data, { "color": "#00FF00" }).addTo(map);
           }); 
 
  	  // load tube data line 8
           $.getJSON("ubahn8.geojson",function(data){
-            L.geoJson(data, { "color": "#FFFF00" }).addTo(map);
+            L.geoJson(data, { "color": "#FF00FF" }).addTo(map);
           }); 
 
 	  // load Vignette Munich
