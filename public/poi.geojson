@@ -58,8 +58,6 @@
 ,
 { "type": "Feature", "id": 52, "properties": { "Nom": "Allgau Skyline Park", "Lieu": "86871, Skyline-Park-Str.1", "Metro": "", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.590804, 48.042803 ] } }
 ,
-{ "type": "Feature", "id": 53, "properties": { "Nom": "Hotel am Castell", "Lieu": "Kastellstrasse 64, 74080 Heilbronn", "Metro": "", "Date": "19/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 9.19935, 49.145403 ] } }
-,
 { "type": "Feature", "id": 54, "properties": { "Nom": "Badeparadies", "Lieu": "Am Badeparadies, 79822 Titisee-Neustadt", "Metro": "", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 8.159556, 47.906807 ] } }
 ,
 { "type": "Feature", "id": 55, "properties": { "Nom": "Center Parcs - Les 3 forets", "Lieu": "1 Rue de Bertrambois, 57790 Hattigny", "Metro": "", "Date": "19/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 6.984639, 48.621673 ] } }
