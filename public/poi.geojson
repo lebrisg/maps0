@@ -46,8 +46,6 @@
 ,
 { "type": "Feature", "id": 32, "properties": { "Nom": "Musee des Transports", "Lieu": "Lessingstraße 6, 90443 Nurnberg", "Metro": "Opernhaus", "Date": "21/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.074325, 49.445623 ] } }
 ,
-{ "type": "Feature", "id": 33, "properties": { "Nom": "Hotel Am Jakobsmarkt", "Lieu": "Schottengasse 5, 90402 Nurnberg", "Metro": "Opernhaus", "Date": "20/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.070197, 49.448288 ] } }
-,
 { "type": "Feature", "id": 34, "properties": { "Nom": "Kaiserburg", "Lieu": "Burg 13, 90403 Nurnberg", "Metro": "", "Date": "20/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.075077, 49.458048 ] } }
 ,
 { "type": "Feature", "id": 40, "properties": { "Nom": "Legoland", "Lieu": "Legoland-Allee 1, 89312 Gunzburg", "Metro": "", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.299484, 48.424445 ] } }
@@ -69,5 +67,7 @@
 { "type": "Feature", "id": 57, "properties": { "Nom": "Aqua Mundo Allgau", "Lieu": "88299 Leutkirch im Allgau", "Metro": "", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.063496, 47.783733 ] } }
 ,
 { "type": "Feature", "id": 58, "properties": { "Nom": "Rothenbourg", "Lieu": "Rothenbourg ob der Tauber", "Metro": "", "Date": "19/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.178667, 49.377309 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "Nom": "Hilton", "Lieu": "", "Metro": "", "Date": "19/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.042756, 49.322643 ] } }
 ]
 }
